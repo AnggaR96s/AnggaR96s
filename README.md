@@ -32,6 +32,8 @@
 ---
 <!-- Spotify Stuff -->
 [![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21c2fiyo3msehg6io65x74ria)
+<!-- LastFM Scrobbles -->
+[![LastFM](https://angga-lastfm.vercel.app/api?user=DeathRhythm&count=3&width=480)](https://www.last.fm/user/DeathRhythm)
 
 ---
 **Languages and Tools:** 
