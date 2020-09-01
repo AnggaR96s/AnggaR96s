@@ -30,6 +30,10 @@
 - 😴 Only sleep 4 hours a day.
 - ☕ Coffee Addict.
 ---
+<!-- Spotify Stuff -->
+[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21c2fiyo3msehg6io65x74ria)
+
+---
 **Languages and Tools:** 
 
 <!-- Your github readme stats
