@@ -36,6 +36,12 @@
 [![LastFM](https://angga-lastfm.vercel.app/api?user=DeathRhythm&count=3&width=480)](https://www.last.fm/user/DeathRhythm)
 
 ---
+**My Latest Tweet:**
+<br><br><a href="https://twitter.com/NGGJNCK" target="_blank">
+	<img src="https://github.com/AnggaR96s/AnggaR96s/raw/master/tweet.png" width="100%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+</a><br>
+
+---
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -144,3 +150,4 @@ PHP                      6 repos             █░░░░░░░░░░�
 </details>
 
 ---
+
