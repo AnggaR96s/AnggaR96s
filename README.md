@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Angga, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Angga, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
 
 ---
 <p align="center">
@@ -19,7 +19,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
 - 🎓 I’m now studying at [Universitas Putra Indonesia "YPTK" Padang](https://upiyptk.ac.id)
 - 🌱 I’m currently learning Android Development.
