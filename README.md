@@ -37,9 +37,17 @@
 
 ---
 **My Latest Tweet:**
-<br><br><a href="https://twitter.com/NGGJNCK" target="_blank">
+<p align="center"><a href="https://twitter.com/NGGJNCK" target="_blank">
 	<img src="https://github.com/AnggaR96s/AnggaR96s/raw/master/tweet.png" width="100%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a><br>
+</p></a>
+
+---
+**Trophy 🏆:**<br>
+<p align="center">
+  <a href="https://github.com/AnggaR96s">
+    <img width="80%" alt="Angga's Trophy" src="https://github-profile-trophy.vercel.app/?username=AnggaR96s&row=2&column=3&theme=flat" />
+  </a>
+</p>
 
 ---
 **Languages and Tools:** 
