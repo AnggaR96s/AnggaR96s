@@ -89,11 +89,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,441 Contributions in the Year 2020
+> 🏆 2,445 Contributions in the Year 2020
  > 
 > 📦 13.3 MB Used in Github's Storage 
  > 
@@ -116,10 +116,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ```text
 Monday       177 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-Tuesday      159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Wednesday    119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Thursday     177 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-Friday       148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Tuesday      161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+Wednesday    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Thursday     176 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
 Saturday     134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
 Sunday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
 
