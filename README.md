@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/anggars"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/anggasync"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:kiritoclasher@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="mailto:anggasyn@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
+<a href="mailto:anggasyn@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></a><br>
+<a href="https://visitor-badge.laobi.icu/badge?page_id=AnggaR96s"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AnggaR96s" /></a></p>
 
 ---
 <!-- Talking about you -->
