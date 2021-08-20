@@ -1,10 +1,12 @@
 <!-- Your title -->
 ## Hi, I'm Angga, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
 
----
-<p align="center">
+
+![Metrics](https://metrics.lecoq.io/AnggaR96s?template=classic&commits.authoring=AnggaR96s%2C%20angga%40linuxmail.org&languages=1&people=1&achievements=1&tweets=1&pagespeed=1&languages.limit=0&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=0&people.size=24&people.types=followers%2C%20following&people.thanks=GengKapak&people.sponsors.custom=GengKapak&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=gengkapak.my.id&pagespeed.detailed=true&pagespeed.screenshot=false&tweets.attachments=true&tweets.limit=2&tweets.user=NGGJNCK&config.timezone=Asia%2FJakarta)
+
+<!--p align="center">
   <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/source.gif" width="80%"><br>
-</p>
+</p-->
 
 ---
 <p align="center">
@@ -36,19 +38,10 @@
 <!-- LastFM Scrobbles -->
 [![LastFM](https://angga-lastfm.vercel.app/api?user=DeathRhythm&count=3&width=480)](https://www.last.fm/user/DeathRhythm)
 
----
-**My Latest Tweet:**
+<!--**My Latest Tweet:**
 <p align="center"><a href="https://twitter.com/NGGJNCK" target="_blank">
 	<img src="https://github.com/AnggaR96s/AnggaR96s/raw/master/tweet.png" width="100%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</p></a>
-
----
-**Trophy 🏆:**<br>
-<p align="center">
-  <a href="https://github.com/AnggaR96s">
-    <img width="80%" alt="Angga's Trophy" src="https://github-profile-trophy.vercel.app/?username=AnggaR96s&row=2&column=3&theme=flat" />
-  </a>
-</p>
+</p></a> -->
 
 ---
 **Languages and Tools:** 
