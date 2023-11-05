@@ -8,8 +8,11 @@
 ---
 <p align="center">
 <a href="https://github.com/AnggaR96s"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anggars"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anggar96s"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/anggasync"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
+<a href="https://www.twitter.com/NGGJNCK"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.threads.net/@anggasync"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
+ <a href="[https://www.tiktok.com/maximumslav](https://www.tiktok.com/@maximumslav)"> <img src="https://img.shields.io/badge/TikTok-%23000000?style=flat&logo=tiktok&logoColor=white" /></a>
 <a href="mailto:kiritoclasher@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="mailto:anggasyn@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></a><br>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=AnggaR96s"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AnggaR96s" /></a></p>
